@@ -1,2 +1,2 @@
 # hippo-call-scheduler
-CLI tool to staff our AI agents to call patients throughout the day. 
+A CLI tool to staff AI agents to call patients throughout the day.

@@ -1,0 +1,180 @@
+[
+  {
+    "hour": "00:00",
+    "total_agents": 0,
+    "customers": {}
+  },
+  {
+    "hour": "01:00",
+    "total_agents": 0,
+    "customers": {}
+  },
+  {
+    "hour": "02:00",
+    "total_agents": 0,
+    "customers": {}
+  },
+  {
+    "hour": "03:00",
+    "total_agents": 0,
+    "customers": {}
+  },
+  {
+    "hour": "04:00",
+    "total_agents": 0,
+    "customers": {}
+  },
+  {
+    "hour": "05:00",
+    "total_agents": 0,
+    "customers": {}
+  },
+  {
+    "hour": "06:00",
+    "total_agents": 193,
+    "customers": {
+      "VNS": 193
+    }
+  },
+  {
+    "hour": "07:00",
+    "total_agents": 877,
+    "customers": {
+      "VNS": 193,
+      "ANMC": 684
+    }
+  },
+  {
+    "hour": "08:00",
+    "total_agents": 877,
+    "customers": {
+      "VNS": 193,
+      "ANMC": 684
+    }
+  },
+  {
+    "hour": "09:00",
+    "total_agents": 1044,
+    "customers": {
+      "Stanford Hospital": 167,
+      "VNS": 193,
+      "ANMC": 684
+    }
+  },
+  {
+    "hour": "10:00",
+    "total_agents": 1434,
+    "customers": {
+      "Stanford Hospital": 167,
+      "VNS": 193,
+      "SJC": 84,
+      "ANMC": 684,
+      "NMDX": 306
+    }
+  },
+  {
+    "hour": "11:00",
+    "total_agents": 2059,
+    "customers": {
+      "Stanford Hospital": 167,
+      "VNS": 193,
+      "CVS": 625,
+      "SJC": 84,
+      "ANMC": 684,
+      "NMDX": 306
+    }
+  },
+  {
+    "hour": "12:00",
+    "total_agents": 1975,
+    "customers": {
+      "Stanford Hospital": 167,
+      "VNS": 193,
+      "CVS": 625,
+      "ANMC": 684,
+      "NMDX": 306
+    }
+  },
+  {
+    "hour": "13:00",
+    "total_agents": 1782,
+    "customers": {
+      "Stanford Hospital": 167,
+      "CVS": 625,
+      "ANMC": 684,
+      "NMDX": 306
+    }
+  },
+  {
+    "hour": "14:00",
+    "total_agents": 1782,
+    "customers": {
+      "Stanford Hospital": 167,
+      "CVS": 625,
+      "ANMC": 684,
+      "NMDX": 306
+    }
+  },
+  {
+    "hour": "15:00",
+    "total_agents": 1157,
+    "customers": {
+      "Stanford Hospital": 167,
+      "ANMC": 684,
+      "NMDX": 306
+    }
+  },
+  {
+    "hour": "16:00",
+    "total_agents": 1157,
+    "customers": {
+      "Stanford Hospital": 167,
+      "ANMC": 684,
+      "NMDX": 306
+    }
+  },
+  {
+    "hour": "17:00",
+    "total_agents": 1157,
+    "customers": {
+      "Stanford Hospital": 167,
+      "ANMC": 684,
+      "NMDX": 306
+    }
+  },
+  {
+    "hour": "18:00",
+    "total_agents": 851,
+    "customers": {
+      "Stanford Hospital": 167,
+      "ANMC": 684
+    }
+  },
+  {
+    "hour": "19:00",
+    "total_agents": 684,
+    "customers": {
+      "ANMC": 684
+    }
+  },
+  {
+    "hour": "20:00",
+    "total_agents": 0,
+    "customers": {}
+  },
+  {
+    "hour": "21:00",
+    "total_agents": 0,
+    "customers": {}
+  },
+  {
+    "hour": "22:00",
+    "total_agents": 0,
+    "customers": {}
+  },
+  {
+    "hour": "23:00",
+    "total_agents": 0,
+    "customers": {}
+  }
+]
